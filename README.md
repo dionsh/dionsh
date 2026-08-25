@@ -2,6 +2,8 @@
 
 💻 **Full-Stack Developer** passionate about building clean, functional, and user-friendly web solutions.
 
+🌐 **Portfolio:** [dionsherifi.com](https://dionsherifi.com) — my projects, hackathon write-ups and blog.
+
 
 ---
 
@@ -42,10 +44,11 @@
 ---
 
 ### 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=googlechrome&logoColor=5eead4)](https://dionsherifi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dionsh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dionsherifi7@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dionsherifi)
 
 
 ---
-⭐️ From [Dion Sherifi](https://github.com/dionsh)
+⭐️ From [Dion Sherifi](https://dionsherifi.com)
